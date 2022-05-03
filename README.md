@@ -338,3 +338,7 @@ amplify delete
 
 Did you like the Lab? Click [here](https://eventbox.dev/survey/VZCG7CZ) to let us know what you think about it.
 
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
