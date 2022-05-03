@@ -15,6 +15,7 @@ This lab assumes the following:
 It's being executed in an AWS Cloud9 instance provided by the lab co-ordinator.
 This repository has been cloned into the default ```~/environment```
 
+ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
 ## Set up
 
@@ -31,6 +32,7 @@ Run the following to get started. This will configure the environment and clean 
 ```cd ~/AWSAmplifyReact101-Cloud9-IDE/
 bash resize.sh 20
 ```
+GOOD! The instance has been resized. ✅ Now, we will have a bit more space to install the dependencies needed to run our app. 
 
 Install Amplify 
 
@@ -321,10 +323,10 @@ https://dev.d1r86buzj4a8xm.amplifyapp.com
 
 ```
 
-make sure to click at the link at the bottom and see your new app! Congrats! 
+make sure to click at the link at the bottom and see your new app! Congrats! ✅ 
 
 
-## Delete the resources
+## Delete the resources ✅
 
 In order to remove the reesources, please make sure that you run the following command. 
 
@@ -332,10 +334,7 @@ In order to remove the reesources, please make sure that you run the following c
 amplify delete
 ```
 
+## Tell us what you think 
+
 Did you like the Lab? Click [here](https://eventbox.dev/survey/VZCG7CZ) to let us know what you think about it.
-
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
 
