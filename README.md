@@ -92,7 +92,15 @@ Install Mui
 npm install @mui/material @mui/styled-engine-sc styled-components @emotion/react @emotion/styled
 ```
 
-Create a new folder called “components” and in this folder a file called “Table.js”. Paste the below code into the file.
+We are about to create the very first component of the UI. It is going to be a table. In order to keep our project clean we are going to store all the elements in the folder called "components".
+
+Create a new folder called “components” 
+
+```
+mkdir components
+```
+
+and in this folder a file called “Table.js”. Paste the below code into the file.
 
 ![](./images/components.png)
 
