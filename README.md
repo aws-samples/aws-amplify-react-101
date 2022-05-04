@@ -97,7 +97,7 @@ We are about to create the very first component of the UI. It is going to be a t
 Create a new folder called “components” 
 
 ```
-mkdir components
+cd src && mkdir components
 ```
 
 and in this folder a file called “Table.js”. Paste the below code into the file.
