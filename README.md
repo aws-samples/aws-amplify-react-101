@@ -107,7 +107,7 @@ and in this folder a file called “Table.js”. Paste the below code into the f
 *Table.js*
 
 ```
- import * as React from 'react';
+import * as React from 'react';
 import Table from '@mui/material/Table';
 import TableBody from '@mui/material/TableBody';
 import TableCell from '@mui/material/TableCell';
