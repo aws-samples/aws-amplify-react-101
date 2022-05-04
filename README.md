@@ -133,10 +133,13 @@ export default function BasicTable() {
         <TableContainer component={Paper}>
             <Table sx={{ minWidth: 650 }} aria-label="simple table">
                 <TableHead>
-                    <TableRow>
-                        <TableCell>Id</TableCell>
-                        <TableCell align="right">alerts</TableCell>
-                    </TableRow>
+                   <TableRow>
+                    <TableCell>Dessert (100g serving)</TableCell>
+                    <TableCell align="right">Calories</TableCell>
+                    <TableCell align="right">Fat&nbsp;(g)</TableCell>
+                    <TableCell align="right">Carbs&nbsp;(g)</TableCell>
+                    <TableCell align="right">Protein&nbsp;(g)</TableCell>
+                  </TableRow>
                 </TableHead>
                 <TableBody>
           {rows.map((row) => (
@@ -357,4 +360,3 @@ Did you like the Lab? Click [here](https://eventbox.dev/survey/VZCG7CZ) to let u
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
