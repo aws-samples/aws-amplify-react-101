@@ -236,8 +236,9 @@ export default App;
 
 Add AWS Amplify hosting
 
-```amplify add hosting
- ```
+```
+amplify add hosting
+```
 
  You will be asked the following:
 
