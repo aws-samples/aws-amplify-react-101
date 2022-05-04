@@ -34,10 +34,6 @@ bash resize.sh 20
 ```
 GOOD! The instance has been resized. ✅ Now, we will have a bit more space to install the dependencies needed to run our app. 
 
-Install Amplify 
-
-```npm install -g @aws-amplify/cli```
-
 Then configure create a react app:
 
 ```npx create-react-app amplify_workshop```
@@ -45,6 +41,10 @@ Then configure create a react app:
 Now make sure you enter the right repository:
 
 ```cd amplify_workshop```
+
+Install Amplify 
+
+```npm install -g @aws-amplify/cli```
 
 Before we go further make sure you go back to the console and search for CloudFormation -> Stack -> Outputs tab and make sure you have the details like accessKeyId and SecretAccessKey handy.
 
