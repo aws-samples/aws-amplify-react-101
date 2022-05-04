@@ -82,6 +82,7 @@ Resources:
     Type: AWS::IAM::AccessKey
     Properties:
       UserName: !Ref "CFNUser"
+      
 Outputs:
   AccessKey:
     Value: !Ref "CFNKeys"
