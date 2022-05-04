@@ -244,8 +244,12 @@ const App = () => {
 export default App;
 ```
 
+Now make sure you are in *~/environment/amplify_workshop* directory and add AWS Amplify hosting.
 
-Add AWS Amplify hosting
+```
+pwd
+```
+If you got /home/ec2-user/environment/amplify_workshop/src - All good! Continue! 
 
 ```
 amplify add hosting
