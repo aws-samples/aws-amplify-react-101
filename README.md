@@ -350,6 +350,8 @@ https://dev.d1r86buzj4a8xm.amplifyapp.com
 
 make sure to click at the link at the bottom and see your new app! Congrats! ✅ 
 
+![](./images/final_table.png)
+
 
 ## Delete the resources ✅
 
