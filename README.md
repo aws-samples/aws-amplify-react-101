@@ -211,14 +211,18 @@ Below you can find an example of the CSS module that we are going to use to mani
 ```
 
 .tableA {
-    max-width: 80%;
+    max-width: 80%; /*specifies the max width of the table in regards to the full width of the desktop*/
     margin: 0 auto;
     margin-top: 40px;
 }
 
 .button {
-    background-color: blue; /*this changes the color of the button*/
+    background : #1E90FF; /*this changes the color of the button*/
     margin: 10px; /*this adds some margin aorund the button*/
+    border: none; /*removes the boarder around the button*/
+    padding: 10px 25px ; /*increases the space inside the element between the element and the border*/
+    color:white; /*changes font of the button to white*/
+    font-weight: 600; /*changes the font of the button*/
 }
 
 ```
