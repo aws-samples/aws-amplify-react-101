@@ -23,7 +23,9 @@ This repository has been cloned into the default ```~/environment```
 - Check to see that you are in US East (N. Virginia) in the top right-hand corner.
 - Go to Cloud9
 - Go to Account Environments.
-- Select Open IDE for **AWSAmplifyReact101-Cloud9-IDE**
+- Select Open IDE for **AWS Amplify React 101 (Level 100) **
+
+![](./images/cloud9.png)
 
 After you have opened the IDE, open a new terminal.
 
