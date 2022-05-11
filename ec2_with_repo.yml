@@ -51,8 +51,8 @@ Resources:
   C9IDE:
     Type: "AWS::Cloud9::EnvironmentEC2"
     Properties:
-      Name: !Sub "AWSAmplifyReact101-Cloud9-IDE"
-      Description: !Sub "AWSAmplifyReact101 Cloud9 IDE"
+      Name: AWS Amplify React 101 (Level 100)
+      Description: AWS Amplify React 100 DevLab 
       AutomaticStopTimeMinutes: !Ref "AutoHibernateTimeout"
       InstanceType: !Ref "EC2InstanceType"
 
