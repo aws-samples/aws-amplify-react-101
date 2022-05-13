@@ -363,7 +363,9 @@ amplify delete
 
 ## Tell us what you think 
 
-Did you like the Lab? Click [here](https://eventbox.dev/survey/VZCG7CZ) to let us know what you think about it.
+Did you like the Lab? Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/VZCG7CZ) to let us know what you think about it.
+
+![](./images/qr_code.png)
 
 ## License
 
