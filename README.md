@@ -365,7 +365,9 @@ amplify delete
 
 Did you like the Lab? Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/VZCG7CZ) to let us know what you think about it.
 
-![Survey QR Code](images/qr-code.png =100x100)
+[<img src="images/qr-code" width="100"/>](images/qr-codeg)
+![Survey QR Code](images/qr-code.png =100x)
+
 
 ## License
 
