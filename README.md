@@ -236,7 +236,6 @@ Below you can find an example of the CSS module that we are going to use to mani
 ```
 
 
-
 Now let's add the stylesheet to our main App.js file.
 
 *App.js*
