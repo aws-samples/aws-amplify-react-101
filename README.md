@@ -17,10 +17,12 @@ This repository has been cloned into the default ```~/environment```
 
 ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
 
+
 ## Set up
+[If you run it outside of AWS Event - make sure to run a Cloudformation script that you can find in the project tree: ec2_with_repo.yml]
 
 - Go to to AWS Console
-- Check to see that you are in US East (N. Virginia) in the top right-hand corner.
+- Check to see that you are in US East (N. Virginia) in the top right-hand corner
 - Go to Cloud9
 - Go to Account Environments.
 - Select Open IDE for **AWS Amplify React 101 (Level 100) **
