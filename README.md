@@ -206,11 +206,17 @@ Let's stop the server by going back to the terminal and pressing *control+c*.
 
 Below you can find an example of the CSS module that we are going to use to manipulate the look of the buttons as well as the table component.
 
-1. In the *scrc* directory create a file called *styles.module.css* and paste there the below code so that it is amplify_workshop/src/styles.module.css.
+1. In the *scrc* directory find a file called *App.css* and paste there the below code so that it is amplify_workshop/src/App.css.
 
-*styles.module.css*
+*App.css*
 
 ```
+
+.App {
+  text-align: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
 
 .tableA {
     max-width: 80%; /*specifies the max width of the table in regards to the full width of the desktop*/
@@ -237,7 +243,6 @@ Now let's add the stylesheet to our main App.js file.
 
 ```
 import React from 'react';
-import stylesheet from './styles.module.css';
 import './App.css';
 import BasicTable from './components/Table';
 
@@ -246,8 +251,8 @@ const App = () => {
 
   return (
     <div className="App">
-      <div className={stylesheet.tableA} ><BasicTable /></div>
-      <button className={stylesheet.button}>This is blue</button>
+      <div className='tableA' ><BasicTable /></div>
+      <button className='button'>This is blue</button>
     </div>
   );
 }
