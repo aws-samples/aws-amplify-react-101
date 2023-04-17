@@ -3,7 +3,7 @@
 AWS Amplify makes it easy for you to create, configure, and implement scalable mobile and web apps powered by AWS. In this workshop, you are going to discover the basics of building simple react application enhanced by the simplicity of hosting provided by AWS Amplify. 
 
 Today we will:
-1. Create a react app
+1. Create a React app
 2. Add a simple React component
 3. Creare a styling css module
 4. Host the app on AWS Amplify
